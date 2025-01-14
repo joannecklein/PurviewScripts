@@ -6,7 +6,7 @@ This PowerShell script uses the Microsoft Graph PowerShell SDK to update retenti
 
 - PowerShell 7.0 or later
 - Microsoft Graph PowerShell SDK
-- Appropriate permissions to access and modify the SharePoint document library (script uses delegated permissions)
+- Appropriate permissions to access and modify the SharePoint document library (script uses delegated permissions) If you are replacing a record label, you must have site collection administration permission.
 
 ## Permissions
 
